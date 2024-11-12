@@ -92,6 +92,8 @@ public class CalculateSales {
 		}
 
 		//エラー処理2-1
+		//ファイル名を昇順に並び替え
+		Collections.sort(rcdFiles);
 		//ファイル名の連番チェック
 		for(int i = 0; i < rcdFiles.size() - 1; i++) {
 
