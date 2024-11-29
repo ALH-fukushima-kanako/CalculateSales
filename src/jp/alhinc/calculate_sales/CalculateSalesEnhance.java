@@ -1,4 +1,4 @@
-package jp.alhinc.CalculateSalesEnhance;
+package jp.alhinc.calculate_sales;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
